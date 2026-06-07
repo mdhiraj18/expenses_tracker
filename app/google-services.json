@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "621133135956",
+    "project_id": "expense-tracker-c430f",
+    "storage_bucket": "expense-tracker-c430f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621133135956:android:8fb8aafeaffda30fe0adc1",
+        "android_client_info": {
+          "package_name": "com.aistudio.expensify.jksqra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621133135956-6lrug1cbs34oe0up0fjd927vbu8di28l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtyL49TyAJfyp1thG5gc9ST6nE0GeOfvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621133135956-6lrug1cbs34oe0up0fjd927vbu8di28l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

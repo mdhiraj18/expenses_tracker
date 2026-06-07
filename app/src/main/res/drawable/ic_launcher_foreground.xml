@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Wallet base, beautifully rounded in mint green -->
+    <path
+        android:fillColor="#0DF25D"
+        android:pathData="M30,36 C26.7,36 24,38.7 24,42 L24,70 C24,73.3 26.7,76 30,76 L78,76 C81.3,76 84,73.3 84,70 L84,42 C84,38.7 81.3,36 78,36 Z M32,42 L76,42 C77.1,42 78,42.9 78,44 L78,46 C78,47.1 77.1,48 76,48 L32,48 C30.9,48 30,47.1 30,46 L30,44 C30,42.9 30.9,42 32,42 Z" />
+    <!-- Wallet security slot in Accent Gold -->
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M70,50 C73.3,50 76,52.7 76,56 L76,62 C76,65.3 73.3,68 70,68 C66.7,68 64,65.3 64,62 L64,56 C64,52.7 66.7,50 70,50 Z M70,56 C68.9,56 68,56.9 68,58 C68,59.1 68.9,60 70,60 C71.1,60 72,59.1 72,58 C72,56.9 71.1,56 70,56 Z" />
+</vector>
